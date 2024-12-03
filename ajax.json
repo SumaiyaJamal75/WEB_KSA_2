@@ -1,4 +1,6 @@
-Sumaiya Jamal
-Id:223002071
-Department:CSE
-
+{
+    "dept": "CSE",
+    "teacher": "Feroza Naznin",
+    "course": "Web Programming",
+    "topic": "KSA-2"
+}
